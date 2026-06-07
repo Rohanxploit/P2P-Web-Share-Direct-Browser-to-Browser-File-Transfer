@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-50 antialiased min-h-screen w-screen overflow-x-hidden;
+  }
+  #root {
+    @apply min-h-screen w-full flex flex-col;
+  }
+}
