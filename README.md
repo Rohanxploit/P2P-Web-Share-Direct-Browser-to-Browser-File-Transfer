@@ -199,11 +199,12 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-![Home Page](./docs/home-page.png)
+<img width="1912" height="961" alt="image" src="https://github.com/user-attachments/assets/f97f7bb4-630e-40c9-85ad-5936403a2cf2" />
 
-![Live Transfer Room](./docs/transfer-room.png)
 
-![About and FAQ](./docs/about-faq.png)
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/2fc8c07e-c456-4dbb-8643-94cd49927a80" />
+
+
 
 ---
 
